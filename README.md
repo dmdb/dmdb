@@ -1,1 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=apollo,aws,cloudflare,docker,go,grafana,graphql,js,kubernetes,linux,mongodb,nestjs,nextjs,postgres,prisma,prometheus,rabbitmq,react,redis,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apollo,aws,cloudflare,docker,go,grafana,graphql,js,kubernetes,linux,mongodb,nestjs,nextjs,postgres,prisma,prometheus,rabbitmq,react,redis,ts,ansible,bash,css,express,githubactions,nginx,nodejs,pug)](https://skillicons.dev)
